@@ -1,0 +1,1446 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(7810,5): warning C5039: 'TpSetCallbackCleanupGroup': -EHc 아래의 'extern "C"' 함수로 전달되는 잠재적인 throw 함수에 대한 포인터 또는 참조입니다. 이 함수가 예외를 throw하는 경우 정의되지 않은 동작이 발생할 수 있습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10847,22): warning C4668: '_WIN32_WINNT_WIN10_TH2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10853,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10858,22): warning C4668: '_WIN32_WINNT_WIN10_TH2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10863,22): warning C4668: '_WIN32_WINNT_WIN10_TH2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10870,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10875,22): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10886,22): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10891,22): warning C4668: '_WIN32_WINNT_WIN10_TH2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10897,22): warning C4668: '_WIN32_WINNT_WIN10_RS3'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10905,22): warning C4668: '_WIN32_WINNT_WIN10_RS4'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10909,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10913,22): warning C4668: '_WIN32_WINNT_WIN10_RS4'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10918,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10921,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10970,23): warning C4668: 'NTDDI_WIN10_CU'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10974,23): warning C4668: 'NTDDI_WIN10_CU'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(11171,22): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(11195,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(14754,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(14956,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(15059,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(15155,21): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(15259,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16004,23): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16092,22): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16218,22): warning C4668: '_WIN32_WINNT_WIN10_RS3'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16367,22): warning C4668: '_WIN32_WINNT_WIN10_RS4'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16380,22): warning C4668: '_WIN32_WINNT_WIN10_RS4'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16609,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgi.h(181,10): warning C4820: 'DXGI_FRAME_STATISTICS': '4' 바이트 패딩이 데이터 멤버 'DXGI_FRAME_STATISTICS::SyncRefreshCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgi.h(188,9): warning C4820: 'DXGI_MAPPED_RECT': '4' 바이트 패딩이 데이터 멤버 'DXGI_MAPPED_RECT::Pitch' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgi.h(298,10): warning C4820: 'DXGI_SWAP_CHAIN_DESC': '4' 바이트 패딩이 데이터 멤버 'DXGI_SWAP_CHAIN_DESC::BufferCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgi.h(302,10): warning C4820: 'DXGI_SWAP_CHAIN_DESC': '4' 바이트 패딩이 데이터 멤버 'DXGI_SWAP_CHAIN_DESC::Flags' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgi.h(2527,10): warning C4820: 'DXGI_ADAPTER_DESC1': '4' 바이트 패딩이 데이터 멤버 'DXGI_ADAPTER_DESC1::Flags' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgi1_2.h(1284,10): warning C4820: 'DXGI_PRESENT_PARAMETERS': '4' 바이트 패딩이 데이터 멤버 'DXGI_PRESENT_PARAMETERS::DirtyRectsCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgi1_2.h(2118,41): warning C4820: 'DXGI_ADAPTER_DESC2': '4' 바이트 패딩이 데이터 멤버 'DXGI_ADAPTER_DESC2::ComputePreemptionGranularity' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgi1_3.h(1795,10): warning C4820: 'DXGI_FRAME_STATISTICS_MEDIA': '4' 바이트 패딩이 데이터 멤버 'DXGI_FRAME_STATISTICS_MEDIA::SyncRefreshCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1120,10): warning C4820: 'D3D11_SO_DECLARATION_ENTRY': '4' 바이트 패딩이 데이터 멤버 'D3D11_SO_DECLARATION_ENTRY::Stream' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1125,10): warning C4820: 'D3D11_SO_DECLARATION_ENTRY': '1' 바이트 패딩이 데이터 멤버 'D3D11_SO_DECLARATION_ENTRY::OutputSlot' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1358,16): warning C4365: '=': 'LONG'에서 'UINT'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1359,15): warning C4365: '=': 'LONG'에서 'UINT'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1360,17): warning C4365: '=': 'LONG'에서 'UINT'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1361,17): warning C4365: '=': 'LONG'에서 'UINT'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1362,18): warning C4365: '=': 'LONG'에서 'UINT'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1363,16): warning C4365: '=': 'LONG'에서 'UINT'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1579,11): warning C4820: 'D3D11_DEPTH_STENCIL_DESC': '2' 바이트 패딩이 데이터 멤버 'D3D11_DEPTH_STENCIL_DESC::StencilWriteMask' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1832,11): warning C4820: 'D3D11_RENDER_TARGET_BLEND_DESC': '3' 바이트 패딩이 데이터 멤버 'D3D11_RENDER_TARGET_BLEND_DESC::RenderTargetWriteMask' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3571,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3571,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3571,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3571,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURECUBE' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURECUBEARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_BUFFEREX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURECUBE' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURECUBE' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURECUBEARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURECUBE' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURECUBEARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3619,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_BUFFEREX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_BUFFEREX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3680,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_BUFFEREX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3979,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4021,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4021,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4021,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4021,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4021,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4021,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4021,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4060,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4060,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4060,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4060,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4060,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4276,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4276,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4276,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4276,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4276,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4276,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4276,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4276,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4305,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4305,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4305,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4305,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4305,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4305,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4305,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4339,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4339,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4339,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4339,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4339,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4368,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4368,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4368,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4368,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4368,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4368,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4368,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4368,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4484,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4517,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4517,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4517,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4517,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4517,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4558,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4558,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4558,9): warning C4061: 열거형 'D3D11_DSV_DIMENSION'의 switch에 있는 'D3D11_DSV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1179,6):
+      'D3D11_DSV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4823,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4867,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4867,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4867,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4867,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4867,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4898,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4898,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4898,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4898,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(4898,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(6783,10): warning C4820: 'D3D11_QUERY_DATA_TIMESTAMP_DISJOINT': '4' 바이트 패딩이 데이터 멤버 'D3D11_QUERY_DATA_TIMESTAMP_DISJOINT::Disjoint' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(6851,11): warning C4820: 'D3D11_COUNTER_INFO': '3' 바이트 패딩이 데이터 멤버 'D3D11_COUNTER_INFO::NumDetectableParallelUnits' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(10126,32): warning C4820: 'D3D11_VIDEO_DECODER_BUFFER_DESC': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BUFFER_DESC::EncryptedBlockInfo' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(10131,10): warning C4820: 'D3D11_VIDEO_DECODER_EXTENSION': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_EXTENSION::Function' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(10134,10): warning C4820: 'D3D11_VIDEO_DECODER_EXTENSION': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_EXTENSION::PrivateInputDataSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(10458,10): warning C4820: 'D3D11_VIDEO_CONTENT_PROTECTION_CAPS': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_CONTENT_PROTECTION_CAPS::BlockAlignmentSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(10841,10): warning C4820: 'D3D11_VIDEO_PROCESSOR_STREAM': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_PROCESSOR_STREAM::FutureFrames' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11214,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_INPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_INPUT::SequenceNumber' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11240,42): warning C4820: 'D3D11_AUTHENTICATED_QUERY_PROTECTION_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_PROTECTION_OUTPUT::ProtectionFlags' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11246,38): warning C4820: 'D3D11_AUTHENTICATED_QUERY_CHANNEL_TYPE_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_CHANNEL_TYPE_OUTPUT::ChannelType' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11272,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_RESTRICTED_SHARED_RESOURCE_PROCESS_COUNT_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_RESTRICTED_SHARED_RESOURCE_PROCESS_COUNT_OUTPUT::RestrictedSharedResourceProcessCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11278,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_RESTRICTED_SHARED_RESOURCE_PROCESS_INPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_RESTRICTED_SHARED_RESOURCE_PROCESS_INPUT::ProcessIndex' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11300,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_UNRESTRICTED_PROTECTED_SHARED_RESOURCE_COUNT_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_UNRESTRICTED_PROTECTED_SHARED_RESOURCE_COUNT_OUTPUT::UnrestrictedProtectedSharedResourceCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11315,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_OUTPUT_ID_COUNT_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_OUTPUT_ID_COUNT_OUTPUT::OutputIDCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11323,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_OUTPUT_ID_INPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_OUTPUT_ID_INPUT::OutputIDIndex' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11331,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_OUTPUT_ID_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_OUTPUT_ID_OUTPUT::OutputIDIndex' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11356,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_ACESSIBILITY_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_ACESSIBILITY_OUTPUT::AccessibleInNonContiguousBlocks' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11362,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_ACCESSIBILITY_ENCRYPTION_GUID_COUNT_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_ACCESSIBILITY_ENCRYPTION_GUID_COUNT_OUTPUT::EncryptionGuidCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11368,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_ACCESSIBILITY_ENCRYPTION_GUID_INPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_ACCESSIBILITY_ENCRYPTION_GUID_INPUT::EncryptionGuidIndex' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11375,10): warning C4820: 'D3D11_AUTHENTICATED_QUERY_ACCESSIBILITY_ENCRYPTION_GUID_OUTPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_QUERY_ACCESSIBILITY_ENCRYPTION_GUID_OUTPUT::EncryptionGuid' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11389,10): warning C4820: 'D3D11_AUTHENTICATED_CONFIGURE_INPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_CONFIGURE_INPUT::SequenceNumber' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11411,42): warning C4820: 'D3D11_AUTHENTICATED_CONFIGURE_PROTECTION_INPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_CONFIGURE_PROTECTION_INPUT::Protections' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11425,49): warning C4820: 'D3D11_AUTHENTICATED_CONFIGURE_SHARED_RESOURCE_INPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_CONFIGURE_SHARED_RESOURCE_INPUT::ProcessType' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(11427,10): warning C4820: 'D3D11_AUTHENTICATED_CONFIGURE_SHARED_RESOURCE_INPUT': '4' 바이트 패딩이 데이터 멤버 'D3D11_AUTHENTICATED_CONFIGURE_SHARED_RESOURCE_INPUT::AllowAccess' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11sdklayers.h(2148,22): warning C4820: 'D3D11_MESSAGE': '4' 바이트 패딩이 데이터 멤버 'D3D11_MESSAGE::ID' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11sdklayers.h(2156,10): warning C4820: 'D3D11_INFO_QUEUE_FILTER_DESC': '4' 바이트 패딩이 데이터 멤버 'D3D11_INFO_QUEUE_FILTER_DESC::NumCategories' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11sdklayers.h(2159,10): warning C4820: 'D3D11_INFO_QUEUE_FILTER_DESC': '4' 바이트 패딩이 데이터 멤버 'D3D11_INFO_QUEUE_FILTER_DESC::NumSeverities' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11sdklayers.h(2162,10): warning C4820: 'D3D11_INFO_QUEUE_FILTER_DESC': '4' 바이트 패딩이 데이터 멤버 'D3D11_INFO_QUEUE_FILTER_DESC::NumIDs' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10.h(688,10): warning C4820: 'D3D10_SO_DECLARATION_ENTRY': '1' 바이트 패딩이 데이터 멤버 'D3D10_SO_DECLARATION_ENTRY::OutputSlot' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10.h(1020,11): warning C4820: 'D3D10_DEPTH_STENCIL_DESC': '2' 바이트 패딩이 데이터 멤버 'D3D10_DEPTH_STENCIL_DESC::StencilWriteMask' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10.h(2218,10): warning C4820: 'D3D10_MAPPED_TEXTURE2D': '4' 바이트 패딩이 데이터 멤버 'D3D10_MAPPED_TEXTURE2D::RowPitch' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10.h(4795,10): warning C4820: 'D3D10_QUERY_DATA_TIMESTAMP_DISJOINT': '4' 바이트 패딩이 데이터 멤버 'D3D10_QUERY_DATA_TIMESTAMP_DISJOINT::Disjoint' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10.h(4859,11): warning C4820: 'D3D10_COUNTER_INFO': '3' 바이트 패딩이 데이터 멤버 'D3D10_COUNTER_INFO::NumDetectableParallelUnits' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10sdklayers.h(907,22): warning C4820: 'D3D10_MESSAGE': '4' 바이트 패딩이 데이터 멤버 'D3D10_MESSAGE::ID' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10sdklayers.h(915,10): warning C4820: 'D3D10_INFO_QUEUE_FILTER_DESC': '4' 바이트 패딩이 데이터 멤버 'D3D10_INFO_QUEUE_FILTER_DESC::NumCategories' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10sdklayers.h(918,10): warning C4820: 'D3D10_INFO_QUEUE_FILTER_DESC': '4' 바이트 패딩이 데이터 멤버 'D3D10_INFO_QUEUE_FILTER_DESC::NumSeverities' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10sdklayers.h(921,10): warning C4820: 'D3D10_INFO_QUEUE_FILTER_DESC': '4' 바이트 패딩이 데이터 멤버 'D3D10_INFO_QUEUE_FILTER_DESC::NumIDs' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10shader.h(179,29): warning C4820: '_D3D10_SHADER_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D10_SHADER_DESC::Version' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10shader.h(225,29): warning C4820: '_D3D10_SHADER_VARIABLE_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D10_SHADER_VARIABLE_DESC::uFlags' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10shader.h(250,33): warning C4820: '_D3D10_SHADER_INPUT_BIND_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D10_SHADER_INPUT_BIND_DESC::NumSamples' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10shader.h(262,33): warning C4820: '_D3D10_SIGNATURE_PARAMETER_DESC': '6' 바이트 패딩이 데이터 멤버 '_D3D10_SIGNATURE_PARAMETER_DESC::ReadWriteMask' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10effect.h(292,13): warning C4820: '_D3D10_EFFECT_TYPE_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D10_EFFECT_TYPE_DESC::Stride' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10effect.h(888,10): warning C4820: '_D3D10_EFFECT_SHADER_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D10_EFFECT_SHADER_DESC::IsInline' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10effect.h(894,10): warning C4820: '_D3D10_EFFECT_SHADER_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D10_EFFECT_SHADER_DESC::BytecodeLength' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10effect.h(1173,10): warning C4820: '_D3D10_PASS_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D10_PASS_DESC::Annotations' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10effect.h(1203,33): warning C4820: '_D3D10_PASS_SHADER_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D10_PASS_SHADER_DESC::ShaderIndex' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d10_1.h(159,11): warning C4820: 'D3D10_RENDER_TARGET_BLEND_DESC1': '3' 바이트 패딩이 데이터 멤버 'D3D10_RENDER_TARGET_BLEND_DESC1::RenderTargetWriteMask' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(178,11): warning C4820: 'D3D11_RENDER_TARGET_BLEND_DESC1': '3' 바이트 패딩이 데이터 멤버 'D3D11_RENDER_TARGET_BLEND_DESC1::RenderTargetWriteMask' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2706,10): warning C4820: 'D3D11_VIDEO_DECODER_BUFFER_DESC1': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BUFFER_DESC1::DataSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2709,10): warning C4820: 'D3D11_VIDEO_DECODER_BUFFER_DESC1': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BUFFER_DESC1::IVSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2712,10): warning C4820: 'D3D11_VIDEO_DECODER_BUFFER_DESC1': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BUFFER_DESC1::SubSampleMappingCount' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2718,10): warning C4820: 'D3D11_VIDEO_DECODER_BEGIN_FRAME_CRYPTO_SESSION': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BEGIN_FRAME_CRYPTO_SESSION::BlobSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2722,10): warning C4820: 'D3D11_VIDEO_DECODER_BEGIN_FRAME_CRYPTO_SESSION': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BEGIN_FRAME_CRYPTO_SESSION::PrivateDataSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2773,10): warning C4820: 'D3D11_KEY_EXCHANGE_HW_PROTECTION_OUTPUT_DATA': '4' 바이트 패딩이 데이터 멤버 'D3D11_KEY_EXCHANGE_HW_PROTECTION_OUTPUT_DATA::HWProtectionDataSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2776,10): warning C4820: 'D3D11_KEY_EXCHANGE_HW_PROTECTION_OUTPUT_DATA': '4' 바이트 패딩이 데이터 멤버 'D3D11_KEY_EXCHANGE_HW_PROTECTION_OUTPUT_DATA::pbOutput' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2781,10): warning C4820: 'D3D11_KEY_EXCHANGE_HW_PROTECTION_DATA': '4' 바이트 패딩이 데이터 멤버 'D3D11_KEY_EXCHANGE_HW_PROTECTION_DATA::HWProtectionFunctionID' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_1.h(2784,13): warning C4820: 'D3D11_KEY_EXCHANGE_HW_PROTECTION_DATA': '4' 바이트 패딩이 데이터 멤버 'D3D11_KEY_EXCHANGE_HW_PROTECTION_DATA::Status' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_2.h(142,11): warning C4820: 'D3D11_PACKED_MIP_DESC': '2' 바이트 패딩이 데이터 멤버 'D3D11_PACKED_MIP_DESC::NumPackedMips' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1018,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1018,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1018,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1018,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURECUBE' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURECUBEARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_BUFFEREX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURECUBE' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURECUBE' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURECUBEARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURECUBE' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURECUBEARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1066,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_BUFFEREX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D_SRV_DIMENSION_BUFFEREX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D10_1_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1130,9): warning C4061: 열거형 'D3D_SRV_DIMENSION'의 switch에 있는 'D3D11_SRV_DIMENSION_BUFFEREX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3dcommon.h(311,6):
+      'D3D_SRV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1400,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1442,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1442,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1442,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1442,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1442,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMS' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1442,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE2DMSARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1442,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1484,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1484,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1484,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1484,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1484,9): warning C4061: 열거형 'D3D11_RTV_DIMENSION'의 switch에 있는 'D3D11_RTV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1191,6):
+      'D3D11_RTV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1750,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1794,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1794,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1794,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE2D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1794,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE2DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1794,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1828,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_UNKNOWN' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1828,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_BUFFER' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1828,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE1D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1828,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE1DARRAY' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_3.h(1828,9): warning C4061: 열거형 'D3D11_UAV_DIMENSION'의 switch에 있는 'D3D11_UAV_DIMENSION_TEXTURE3D' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(1205,6):
+      'D3D11_UAV_DIMENSION' 선언을 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_4.h(3784,10): warning C4820: 'D3D11_VIDEO_DECODER_BUFFER_DESC2': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BUFFER_DESC2::DataSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_4.h(3787,10): warning C4820: 'D3D11_VIDEO_DECODER_BUFFER_DESC2': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BUFFER_DESC2::IVSize' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11_4.h(3792,10): warning C4820: 'D3D11_VIDEO_DECODER_BUFFER_DESC2': '4' 바이트 패딩이 데이터 멤버 'D3D11_VIDEO_DECODER_BUFFER_DESC2::cBlocksStripeClear' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11shader.h(54,33): warning C4820: '_D3D11_SIGNATURE_PARAMETER_DESC': '2' 바이트 패딩이 데이터 멤버 '_D3D11_SIGNATURE_PARAMETER_DESC::ReadWriteMask' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11shader.h(59,33): warning C4820: '_D3D11_SIGNATURE_PARAMETER_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D11_SIGNATURE_PARAMETER_DESC::MinPrecision' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11shader.h(76,29): warning C4820: '_D3D11_SHADER_VARIABLE_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D11_SHADER_VARIABLE_DESC::uFlags' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11shader.h(92,33): warning C4820: '_D3D11_SHADER_TYPE_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D11_SHADER_TYPE_DESC::Offset' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11shader.h(104,29): warning C4820: '_D3D11_SHADER_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D11_SHADER_DESC::Version' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11shader.h(157,33): warning C4820: '_D3D11_SHADER_INPUT_BIND_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D11_SHADER_INPUT_BIND_DESC::NumSamples' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11shader.h(180,29): warning C4820: '_D3D11_FUNCTION_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D11_FUNCTION_DESC::Version' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11shader.h(208,29): warning C4820: '_D3D11_FUNCTION_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D11_FUNCTION_DESC::MinFeatureLevel' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d12shader.h(67,33): warning C4820: '_D3D12_SIGNATURE_PARAMETER_DESC': '2' 바이트 패딩이 데이터 멤버 '_D3D12_SIGNATURE_PARAMETER_DESC::ReadWriteMask' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d12shader.h(72,33): warning C4820: '_D3D12_SIGNATURE_PARAMETER_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D12_SIGNATURE_PARAMETER_DESC::MinPrecision' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d12shader.h(89,29): warning C4820: '_D3D12_SHADER_VARIABLE_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D12_SHADER_VARIABLE_DESC::uFlags' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d12shader.h(105,33): warning C4820: '_D3D12_SHADER_TYPE_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D12_SHADER_TYPE_DESC::Offset' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d12shader.h(117,29): warning C4820: '_D3D12_SHADER_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D12_SHADER_DESC::Version' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d12shader.h(172,10): warning C4820: '_D3D12_SHADER_INPUT_BIND_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D12_SHADER_INPUT_BIND_DESC::uID' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d12shader.h(214,29): warning C4820: '_D3D12_FUNCTION_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D12_FUNCTION_DESC::Version' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d12shader.h(242,29): warning C4820: '_D3D12_FUNCTION_DESC': '4' 바이트 패딩이 데이터 멤버 '_D3D12_FUNCTION_DESC::MinFeatureLevel' 다음에 추가됨
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(22,127): warning C4668: '_MANAGED'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(22,142): warning C4668: '_M_CEE'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(281,100): warning C4668: '__arm__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(281,111): warning C4668: '__aarch64__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+E:\DATA401\Source\Game\Main.cpp(13,93): warning C4100: 'lpCmdLine': 참조되지 않은 정식 매개 변수입니다.
+E:\DATA401\Source\Game\Main.cpp(13,66): warning C4100: 'hPrevInstance': 참조되지 않은 정식 매개 변수입니다.
+  Game.vcxproj -> E:\DATA401\Build\x64\Debug\Game.exe
